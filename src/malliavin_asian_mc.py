@@ -6,10 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-# ------------------------------------------------------------
-# Project A - Malliavin calculus and Monte Carlo methods
-# Numerical part for Asian options in the Black-Scholes model
-# ------------------------------------------------------------
+
 # Model parameters imposed by the project statement
 # x = 100, r = 3%, sigma = 20%, T = 1
 # M in {50, 150, 250}
